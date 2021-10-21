@@ -5,7 +5,11 @@
    "description":"Fast, modern, secure Wireguard tunnel (client)",
    "url":"https://github.com/stanswi/addon-wireguard-client",
    "arch":[
-      "armv7"
+      "aarch64",
+      "amd64",
+      "armhf",
+      "armv7",
+      "i386"
    ],
    "apparmor": true,
    "host_network": true,
