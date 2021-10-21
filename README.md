@@ -1,4 +1,4 @@
-# Home Assistant Bigmoby Add-ons
+# Home Assistant Bigmoby Add-ons Fork
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
@@ -22,7 +22,7 @@ Home Assistant add-on store, a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/bigmoby/hassio-repository-addon
+https://github.com/stanswi/hassio-repository-addon
 ```
 
 ## Add-ons provided by this repository
